@@ -1,6 +1,6 @@
 ### Aoba,Bão?
  <div>
-  <a href="https://www.99freelas.com.br/user/thzincxs">
+  <a href="https://github.com/thzincxss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thzincxss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzincxs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>

@@ -2,7 +2,7 @@ Aoba,Bão?
  <div>
   <a href="https://github.com/thzincxss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thzincxss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <br>
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzincxss&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
@@ -17,6 +17,8 @@ Aoba,Bão?
   <img align="center" alt=" cms" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+   
+   ![Snake animation](https://github.com/thzincxss/thzincxss/blob/output/github-contribution-grid-snake.svg)
 </div>
   <div>
     </br>

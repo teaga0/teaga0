@@ -18,7 +18,7 @@ Aoba,Bão?
   <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
    
-   ![Snake animation](https://github.com/thzincxss/thzincxss/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
   <div>
     </br>
